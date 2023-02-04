@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://www.openml.org/
+HostUrl=https://api.openml.org/data/download/20649148/freMTPL2freq.arff
