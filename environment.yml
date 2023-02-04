@@ -1,0 +1,4 @@
+name: car_insurance
+channels:
+  - defaults
+prefix: /home/reza/anaconda3/envs/car_insurance
