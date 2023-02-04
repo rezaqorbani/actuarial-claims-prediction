@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": { 
+		"python.pythonPath": "/home/reza/anaconda3/envs/car-insurance/bin/python"
+	}
+}
